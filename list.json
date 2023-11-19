@@ -1,0 +1,18 @@
+{
+	"system": "FZLV2",
+	"firmwares":
+	[
+		{ "id": "67", "project": "1715p2", 		"name": "FZ2P", 	"version": "01.00.10r9", 	"file": "FZ2P.01.00.10r9.bin" },
+		{ "id": "5B", "project": "1715p1",		"name": "FZ2W", 	"version": "01.00.14r1", 	"file": "FZ2W.01.00.14r1.bin" },
+		
+		{ "id": "5C", "project": "1716p1234",	"name": "ADFX", 	"version": "01.00.04", 		"file": "ADFX_01.00.04.bin" },
+		{ "id": "A6", "project": "1716p567", 	"name": "ADFX2", 	"version": "02.00.00", 		"file": "ADFX_02.00.00.bin" },
+		{ "id": "0A", "project": "1123p1",		"name": "ADF2", 	"version": "02.00.01", 		"file": "ADF2_02.00.01.bin" },
+		{ "id": "5E", "project": "1718p1", 		"name": "ADFD", 	"version": "01.00.07", 		"file": "ADFD.01.00.07.bin" },
+		{ "id": "85", "project": "2006p1", 		"name": "ADFK", 	"version": "01.00.03", 		"file": "ADFK.01.00.03.bin" },
+		
+		{ "id": "70", "project": "1719p2",		"name": "PH3F", 	"version": "01.00.02", 		"file": "PH3F_01.00.02.bin" },
+		{ "id": "5F", "project": "1719p1",		"name": "IN16F", 	"version": "01.00.01", 		"file": "IN16F_01.00.01.bin" },
+		{ "id": "72", "project": "1823p1",		"name": "OUT4F", 	"version": "01.00.01", 		"file": "OUT4F_01.00.01.bin" }
+	]
+}
