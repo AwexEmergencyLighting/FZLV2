@@ -2,8 +2,8 @@
 	"system": "FZLV2",
 	"firmwares":
 	[
-		{ "id": "67", "project": "1715p2", 		"name": "FZ2P", 	"version": "01.00.10r9", 	"file": "FZ2P.01.00.10r9.bin" },
-		{ "id": "5B", "project": "1715p1",		"name": "FZ2W", 	"version": "01.00.14r1", 	"file": "FZ2W.01.00.14r1.bin" },
+		{ "id": "67", "project": "1715p2", 		"name": "FZ2P", 	"version": "01.00.10r10", 	"file": "FZ2P.01.00.10r10.bin" },
+		{ "id": "5B", "project": "1715p1",		"name": "FZ2W", 	"version": "01.00.14r2", 	"file": "FZ2W.01.00.14r2.bin" },
 		
 		{ "id": "5C", "project": "1716p1234",	"name": "ADFX", 	"version": "01.00.04", 		"file": "ADFX_01.00.04.bin" },
 		{ "id": "A6", "project": "1716p567", 	"name": "ADFX2", 	"version": "02.00.00", 		"file": "ADFX_02.00.00.bin" },
